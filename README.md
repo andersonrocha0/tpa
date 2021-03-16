@@ -1,7 +1,11 @@
 # Entendendo Threads, Processos e AsyncIO com Python 3.8
 
+Link para o vídeo no Youtube: https://youtu.be/uyaC94gPUNc?list=PLJHVw_wMqnI9ETBxOM-B5QcldWtoIOGvg
 
-Vamos usar o seguinte exemplo:
+---
+
+### Vamos usar o seguinte exemplo:
+
 
 Imagine que você vai fazer um jantar para 10 amigos.
 
@@ -111,4 +115,3 @@ IO
 [Async Manual] Time taken : 4.027798175811768
 
 [Async] Time taken : 2.0230748653411865
-   
