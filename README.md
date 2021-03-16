@@ -76,10 +76,11 @@ A simultaneidade não trará muitos benefícios nesses cenários.
 | Concorrência | IO Bound  |
 
 
-https://medium.com/fintechexplained/advanced-python-concurrency-and-parallelism-82e378f26ced
-https://danielflannery.ie/simulate-cpu-load-with-python/
-https://api.openbrewerydb.org/
-https://github.com/public-apis/public-apis
+# Referências
+* https://medium.com/fintechexplained/advanced-python-concurrency-and-parallelism-82e378f26ced
+* https://danielflannery.ie/simulate-cpu-load-with-python/
+* https://api.openbrewerydb.org/
+* https://github.com/public-apis/public-apis
 
 ---
 
